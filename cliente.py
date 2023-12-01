@@ -1,5 +1,3 @@
-import nome
-
 
 class Cliente:
 
